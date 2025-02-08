@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![mxlary](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/mxlary)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently a graduate of Xidian University, with a Master's degree in Electric Information.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>mxlary@outlook.com</code>  
+<code>tanglary@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Xidian University**, Master of Electric Information (2022 – 2025)  
+• GPA: The top 15%  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+<!--**XX University**, Exchange student <br>  
+• As a XX, represented my college as an outstanding student for a XX exchange program.  -->
+**Yanbian University**, Honours Bachelor of Electric Information Engineering (2018 – 2022)  
+• GPA: 3.85/4.0 (top 1%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Machine Learning, Embedded System, Deep Learning, LLM.
