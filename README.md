@@ -1,11 +1,11 @@
-![Github Forks](https://img.shields.io/github/forks/Yixin0313/personal-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/Yixin0313/personal-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/Yixin0313/personal-homepage-template)
+![Github Forks](https://img.shields.io/github/forks/mxlary/mxlary.github.io?style=flat)
+![Github Stars](https://img.shields.io/github/stars/mxlary/mxlary.github.io?style=flat)
+![License](https://img.shields.io/github/license/mxlary/mxlary.github.io)
 
 # 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
 
 ## 预览 | Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/Yixin0313/personal-homepage-template/main/screenshot_full.png)](https://yixin0313.github.io/personal-homepage-template/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/mxlary/mxlary.github.io/main/screenshot_full.png)](https://mxlary.github.io)
 
 ## 介绍 | Introduction
 
@@ -67,6 +67,6 @@ Fire up a browser and go to `https://<username>.github.io`
 
 
 ## License
-本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Yixin Huang 2025年2月7号
+本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Mingxuan Zhang 2025年2月7号
 
-Copyright Yixin Huang, 2025. Licensed under an MIT license. You can copy and mess with this template.
+Copyright Mingxuan Zhang, 2025. Licensed under an MIT license. You can copy and mess with this template.

@@ -1,21 +1,58 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **基于多模态信号的非接触式生理参数测量**
+**2022.11 – 2023.5 | 国家自然基金项目**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+针对传统接触式设备在特定人群（如婴幼儿、烧伤病人）上长期监测的局限性，本项目设计并实现了一套非接触式心率和呼吸率监测系统。利用OpenCV提取PPG信号，通过滤波和心率估计算法处理数据，并利用Qt Designer及C++开发了可实时显示参数的跨平台用户界面。
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### 主要贡献:
+- 调研并确定了非接触式监测的技术方案，实现了基于摄像头的生理信号提取。
+- 设计并实现了信号处理算法，包括滤波、去噪和心率计算。
+- 开发了跨平台的GUI应用，用于实时数据显示和人机交互。
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **基于深度学习的助眠系统设计**
+**2023.12 – 2024.12 | 陕西省基金项目, 毕业论文**
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+为解决中国约3亿人面临的睡眠问题，本项目旨在研发一款嵌入式助眠系统。系统通过EEG硬件采集脑波数据，利用MFTCN模型进行实时睡眠分期，并根据分期结果触发个性化的助眠音乐。该项目旨在通过延长深度睡眠时间来改善用户的睡眠质量。
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### 主要贡献:
+- 确定了系统整体方案，包括硬件选型、脑波数据采集和处理流程。
+- 实现了基于MFTCN的睡眠分期模型，并完成了离线和在线的实时验证。
+- 实现了基于软件的助眠系统，并完成了系统整体部署。
+
+---
+
+### **AI Scientist 论文写作与编程指导助手**
+**2024.1 – 2025.4 | 嵌牛团队项目**
+
+为了提高科研工作效率，本项目开发了一款AI助手，旨在辅助用户完成论文写作和编程任务。我们实现了一个AI写作与编程指导小程序，可以帮助同学们答疑解惑，并且给出论文写作、科研项目编程技术学习的指导建议。
+
+#### 主要贡献:
+- 参与AI功能模块的开发，使用LangChain4j + Vue3 开发AI Scientist的AI代码生成平台以及编程开发、科研写作指导平台。
+- 使用LangChain4j的AI Service开发模式完成系统prompt设置，会话记忆功能的实现以及结构化的输出任务。
+- 构建RAG知识库，确保AI的问答是基于真实资料而不是凭空想象。
+
+---
+
+### **足力健智能老人鞋**
+**2023.7 – 2024.6 | 西电-足力健联合实验室校企联合项目**
+
+通过可穿戴设备,实时监测老年人的居家行为，对摔倒行为及时做出检测和预警，在一定程度上可以保障老人的生命安全，降低老年人由于意外所带来的生命健康风险。
+
+#### 主要贡献:
+- 对老年人的需求进行详细调研，了解他们关注的健康指标和功能需求。
+- 基于需求分析的结果，选择适合的硬件平台和传感器，进行硬件电路设计和嵌入式软件开发。
+- 开发各个功能模块，如步态分析、跌倒检测、室内定位等，并完成用户端的微信小程序开发。
+
+---
+
+### **老人防诈骗与声音健康**
+**2023.12 – 2024.5 | 帕金森项目, 全国研究生电子设计竞赛项目, 全国大学生集成电路创新创业大赛项目**
+
+使用ONNX Runtime框架实现基于transformer的端到端的离线流式语音识别算法以及敏感词识别方法，涉及模型量化。基于VGGish模型和prat库的Web在线帕金森症状检测。
+
+---
+
+### **其它工作经历**
+- 本科期间参加工学院创新创业计划并担任班长，指导同学参与基于EP3C55F484C6的FPGA设计项目。
+- 研究生期间多次参与西电本科生和研究生助教工作，负责课程《嵌入式系统设计》，《嵌入式竞赛培训》的部分理论内容讲授以及实验课指导工作。
