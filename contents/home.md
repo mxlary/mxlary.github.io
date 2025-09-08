@@ -7,8 +7,8 @@ I'm a graduate of Xidian University, with a Master's degree in Electric Informat
 <code>tanglary@gmail.com</code>
 
 #### Education  
-**Xidian University(211)**, Master of Electric Information (2022 – 2025)
-National Key Laboratory of Radar Signal Processing, School of Electronic Engineering   
+**Xidian University(211)**, Master of Electric Information (2022 – 2025)    
+National Key Laboratory of Radar Signal Processing, School of Electronic Engineering    
 • GPA: The top 15%  
 
 <!--**XX University**, Exchange student <br>  
@@ -18,6 +18,7 @@ National Key Laboratory of Radar Signal Processing, School of Electronic Enginee
 
 #### Research Interests  
 Machine Learning, Embedded System, Deep Learning, Signal Processing.
+
 
 #### 技术栈
 *   熟悉Linux下跨平台应用开发，熟练掌握C++/Python编程语言，并具有良好的编码能力和面向对象编程思想。
