@@ -7,7 +7,8 @@ I'm a graduate of Xidian University, with a Master's degree in Electric Informat
 <code>tanglary@gmail.com</code>
 
 #### Education  
-**Xidian University(211)**, Master of Electric Information (2022 – 2025)  
+**Xidian University(211)**, Master of Electric Information (2022 – 2025)
+National Key Laboratory of Radar Signal Processing, School of Electronic Engineering   
 • GPA: The top 15%  
 
 <!--**XX University**, Exchange student <br>  
